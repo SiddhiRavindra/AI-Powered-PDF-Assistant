@@ -7,8 +7,7 @@ AURELIA is a production-grade, cloud-hosted microservice that generates standard
 The stack includes: FastAPI (service), Streamlit (UI), Pinecone/ChromaDB (vector store), Cloud Composer / MWAA (managed Airflow), PostgreSQL (cache), and managed hosting (e.g., Cloud Run).
 
 ## Streamlit Application :
-## System Architecture
-![Project Aurelia ](https://github.com/user-attachments/assets/507913917-0db49047-ad16-416b-8368-cf50561ed038.png)
+![Project Aurelia ](https://github-production-user-asset-6210df.s3.amazonaws.com/180984414/507915013-61dede16-3c41-4437-9b78-8a30294778de.png)
 
 ## ✨ Key Features
 
