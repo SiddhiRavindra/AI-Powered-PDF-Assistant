@@ -1,4 +1,4 @@
-# AI-Powered-PDF-Assistant  Project AURELIA — Automated Financial Concept Note Generator (RAG, Cloud-Hosted)
+# AI-Powered-PDF-Assistant - Project AURELIA - Automated Financial Concept Note Generator (RAG, Cloud-Hosted)
 AURELIA - Query data from pdf easily.
 AURELIA is a production-grade, cloud-hosted microservice that generates standardized concept notes for financial topics using Retrieval-Augmented Generation (RAG). It prioritizes content retrieved from the Financial Toolbox User’s Guide (fintbx.pdf) and gracefully falls back to Wikipedia when the concept isn’t present in the PDF corpus.
 The stack includes: FastAPI (service), Streamlit (UI), Pinecone/ChromaDB (vector store), Cloud Composer / MWAA (managed Airflow), PostgreSQL (cache), and managed hosting (e.g., Cloud Run).
